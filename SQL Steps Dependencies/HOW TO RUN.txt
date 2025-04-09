@@ -1,0 +1,4 @@
+1. Create a Database named [SQLTEST] in MSSQLSERVER
+2. Run the script [0. create_Tables]
+3. Run the script [1. create_Stored_Proc]
+4. Run the script [2. execute_SP_for_result]

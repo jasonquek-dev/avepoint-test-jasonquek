@@ -1,0 +1,4 @@
+1. Install Visual Studio Code.
+2. Search for Python extension in VS Code (if Python hasn't been installed).
+3. Open the "auto_drive_simulation" py file.
+4. Run the simulation.
