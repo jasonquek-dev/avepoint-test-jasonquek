@@ -9,6 +9,7 @@ Contains 2 Sections:
      - Create Database with the name "SQLTEST"
    - Order to run the scripts:
    - i) create_Tables.sql
-   - ii) create_Stored_Proc.sql
-   - iii) execute_SP_for_result.sql
+   - ii) insert_into_table.sql
+   - iii) create_Stored_Proc.sql
+   - iv) execute_SP_for_result.sql
    
